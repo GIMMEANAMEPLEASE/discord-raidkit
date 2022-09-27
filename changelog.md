@@ -1,5 +1,18 @@
 # Discord Raidkit Changelog
 
+### v2.4.0 (xx/xx/xxxx)
+##### Additions:
+- xxx.
+
+##### Changes:
+- xxx.
+
+##### Reductions:
+- xxx.
+
+##### Additional Notices:
+- xxx.
+
 ### v2.3.3 (25/09/2022)
 ##### Additions:
 - Added more information to Osiris' user information grabber e.g. billing address and card digits (last four).
